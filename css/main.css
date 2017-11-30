@@ -27,7 +27,6 @@ nav ul li {
   padding: .4rem 0;
   font-family: Merriweather, serif;
   color: #fff;
-  width: auto;
 }
 
 nav {
@@ -50,4 +49,8 @@ body {
 
 .right {
   float: right;
+}
+
+img {
+  width: 40px;
 }
