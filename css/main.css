@@ -33,6 +33,7 @@ nav ul li {
 
 nav {
   text-align: center;
+  padding: 0;
 }
 
 ul :hover {
@@ -43,7 +44,6 @@ ul :hover {
 body {
   color: #d05c2e;
   margin: 0;
-  padding: 0;
 }
 
 .left {
