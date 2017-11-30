@@ -38,6 +38,7 @@ nav {
 ul :hover {
   background-color: #a63f38;
   margin: 0;
+  padding: 0;
 }
 
 body {
