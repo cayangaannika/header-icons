@@ -33,6 +33,7 @@ nav ul li {
 nav {
   text-align: center;
   float: left;
+  width: 40px;
 }
 
 ul :hover {
