@@ -1,0 +1,28 @@
+html {
+  box-sizing: border box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-size: 2rem;
+  font-family: Merriweather, serif;
+  color: #fff;
+  text-align: center;
+  background-color: #d05c2e;
+  margin: 0;
+  padding-top: .4em;
+  padding-bottom: .4em;
+  position: absolute;
+}
+
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+  background-color: #d05c2e;
+  font-size: 1.125rem;
+  line-height: 1.5;
+  padding: .4rem 0;
+}
