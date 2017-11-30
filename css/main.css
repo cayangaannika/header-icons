@@ -47,11 +47,10 @@ figure {
   margin: 0;
 }
 
-div .left {
-  position: relative;
+.left {
   float: left;
 }
 
-div .right {
+.right {
   float: right;
 }
