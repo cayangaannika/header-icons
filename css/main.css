@@ -32,10 +32,10 @@ nav ul li {
 nav {
   text-align: center;
 }
- ul :hover {
-   background-color: #a63f38;
-   margin: 0;
- }
+ul :hover {
+  background-color: #a63f38;
+  margin: 0;
+}
 
 body {
   color: #d05c2e;
