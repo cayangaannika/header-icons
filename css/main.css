@@ -32,6 +32,7 @@ nav ul li {
 
 nav {
   text-align: center;
+  float: inherit;
   width: 40px;
 }
 
