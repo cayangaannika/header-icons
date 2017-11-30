@@ -29,6 +29,10 @@ nav ul li {
   color: #fff;
 }
 
+.banner {
+  position: relative;
+}
+
 nav {
   text-align: center;
 }
