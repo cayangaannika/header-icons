@@ -46,7 +46,7 @@ ul {
 .list li {
   list-style-type: none;
   float: left;
-  width: 33.3%
+  width: 33.3%;
 }
 
 .list a {
@@ -54,7 +54,7 @@ ul {
   padding: .5rem;
   border-right: 1px solid #a63f38;
   border-left: 1px solid #a63f38;
-  width: 100%
+  width: 100%;
 }
 
 a:hover {
